@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Help4U</string>
+
+    <string name="booki">BookI</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="read_it_together">Save the victim</string>
+    <string name="skip">Sign In</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="fullname">Full Name</string>
+    <string name="username">User Name</string>
+    <string name="mobileno">Mobile No.</string>
+    <string name="email">Email</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_password">Forget Password.?</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="gender">
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+    </string-array>
+
+    <string name="consup">If you have any doubts and related queries please contact through the mail given below</string>
+    <string name="maillink">sagit8529@gmail.com</string>
+    <string name="phlink">Help4U is currently accepting requests for in-kind donations to nonprofit organizations and registered charities which support the well-being of children and work to make their days a little bit brighter. Call</string>
+    <string name="phno">6374023685</string>
+
+</resources>
